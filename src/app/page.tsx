@@ -58,17 +58,13 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="text-center">
               <h2 className="text-4xl font-bold text-neutral-900 mb-6">
-                Your Trusted Partner in Hospitality Excellence
+                StepVision Hotel and Engineering Supplies
               </h2>
               <p className="text-lg text-neutral-700 mb-4">
-                StepVision Hotel Supplies LLC is a UAE-based supplier specializing in premium
-                hospitality products. We serve hotels, restaurants, and hospitality projects with
-                a comprehensive range of supplies.
+                Being part of StepVision International Group, we are a UAE-based hospitality supply partner delivering both operational products and engineering solutions for hotels, resorts, and serviced apartments all over the Middle East and Africa.
               </p>
               <p className="text-lg text-neutral-700">
-                With years of experience in the industry, we understand the unique needs of
-                hospitality businesses and deliver solutions that combine quality, reliability,
-                and value.
+                Hotels choose us because we combine industry-leading hospitality supplies with engineering products that keep operations running smoothly.
               </p>
             </div>
             <div className="relative h-[300px] md:h-[350px] rounded-lg overflow-hidden shadow-xl">
