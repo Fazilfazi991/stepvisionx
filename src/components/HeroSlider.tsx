@@ -31,7 +31,7 @@ const slides: Slide[] = [
     {
         id: 2,
         image: '/images/hero-slide-1.png',
-        title: 'Premium Hotel & Hospitality Supplies',
+        title: 'Premium Hotel & Engineering Supplies',
         description: 'From OS&E and FF&E to Engineering spares and maintenance products — trusted by hotels in Middle East and Africa',
         ctaText: 'View Catalogue',
         ctaLink: '/request-catalogue',
